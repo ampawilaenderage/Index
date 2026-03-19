@@ -11,7 +11,7 @@
             faGmbHCoKG.NeuerMitarbeiter("Franz Meier", Abteilung.Vetrieb, "16.12.1958");
             faGmbHCoKG.NeuerMitarbeiter("Maria Müller", Abteilung.Vetrieb, "09.01.1998");
             faGmbHCoKG.NeuerMitarbeiter("Karl Ransauer", Abteilung.Entwicklung, "28.08.1964");
-            faGmbHCoKG.NeuerMitarbeiter("Susanne Kiesling", Abteilung.Entwicklung, "20.11.2000");
+            faGmbHCoKG.NeuerMitarbeiter("Susanne Kiesling", Abteilung.Entwicklung, "20.11.2002");
 
 
             Console.WriteLine(
