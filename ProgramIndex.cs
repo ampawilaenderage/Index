@@ -6,7 +6,7 @@
         {
             int nr = 3;
             Belegschaft faGmbHCoKG = new Belegschaft();
-            faGmbHCoKG.NeuerMitarbeiter("Hans Schulz", Abteilung.Buchhaltung, "12.04.1958");
+            faGmbHCoKG.NeuerMitarbeiter("Hans Schulz", Abteilung.Buchhaltung, "12.04.1956");
             faGmbHCoKG.NeuerMitarbeiter("Anna Schmidt", Abteilung.Buchhaltung, "07.08.1974");
             faGmbHCoKG.NeuerMitarbeiter("Franz Meier", Abteilung.Vetrieb, "16.12.1958");
             faGmbHCoKG.NeuerMitarbeiter("Maria Müller", Abteilung.Vetrieb, "09.01.1998");
