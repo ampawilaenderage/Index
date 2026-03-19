@@ -1,0 +1,14 @@
+C:\Users\IBBHome\source\repos\Index\obj\Debug\net8.0\Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBBHome\source\repos\Index\obj\Debug\net8.0\Index.AssemblyInfoInputs.cache
+C:\Users\IBBHome\source\repos\Index\obj\Debug\net8.0\Index.AssemblyInfo.cs
+C:\Users\IBBHome\source\repos\Index\obj\Debug\net8.0\Index.csproj.CoreCompileInputs.cache
+C:\Users\IBBHome\source\repos\Index\bin\Debug\net8.0\Index.exe
+C:\Users\IBBHome\source\repos\Index\bin\Debug\net8.0\Index.deps.json
+C:\Users\IBBHome\source\repos\Index\bin\Debug\net8.0\Index.runtimeconfig.json
+C:\Users\IBBHome\source\repos\Index\bin\Debug\net8.0\Index.dll
+C:\Users\IBBHome\source\repos\Index\bin\Debug\net8.0\Index.pdb
+C:\Users\IBBHome\source\repos\Index\obj\Debug\net8.0\Index.dll
+C:\Users\IBBHome\source\repos\Index\obj\Debug\net8.0\refint\Index.dll
+C:\Users\IBBHome\source\repos\Index\obj\Debug\net8.0\Index.pdb
+C:\Users\IBBHome\source\repos\Index\obj\Debug\net8.0\Index.genruntimeconfig.cache
+C:\Users\IBBHome\source\repos\Index\obj\Debug\net8.0\ref\Index.dll
